@@ -1,5 +1,5 @@
-# Install Office on older MAC's
-How to Install Office (Word, Excel, PowerPoint, OneNote and Teams) on a older Version of a MAC (Macbook, Macbook Pro, 2008, 2009, 2010, 2011 &amp; 2012 
+# Install office on older MAC's
+How to Install Office (Word, Excel, PowerPoint, OneNote and Teams) on a older Mac (Macbook, Macbook Pro, iMac, 2008, 2009, 2010, 2011 & 2012) 
 
 
 - Download Teams App --> https://www.microsoft.com/de-de/microsoft-teams/download-app
